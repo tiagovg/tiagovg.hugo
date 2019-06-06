@@ -19,10 +19,27 @@ theme = "hello-friend-ng"
   # Default theme "light" or "dark"
   defaultTheme = "light"
 
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:me@tiagogoncalv.es"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "mailto:nobody@example.com"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://github.com/"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.linkedin.com/"
+    
 [languages]
   [languages.en]
     title = "Hi, I'm Tiago Gonçalves 👋"
-    subtitle = "I'm a UX/UI Designer based in Porto, Portugal"
+    homesubtitle = "I'm a UX/UI Designer based in Porto, Portugal"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
@@ -35,13 +52,11 @@ theme = "hello-friend-ng"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
+customCSS = ["css/styles.css"]
+
 # And you can even create generic menu
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "/about"
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "/projects"
