@@ -1,12 +1,12 @@
 +++
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["about", "about-us", "contact"]
 date = "2019-06-06"
-title = "About Me"
+title = "Hi, I'm Tiago Gonçalves! 👋"
 [author]
 name = "Tiago Gonçalves"
 
 +++
-![](/uploads/Profile Pic.jpg)
+![](/uploads/Profile Pic.jpg "Profile Pic")
 
 I'm a **UX/UI Designer** based in **Porto, Portugal**.
 
