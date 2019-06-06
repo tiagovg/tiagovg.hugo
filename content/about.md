@@ -6,10 +6,8 @@ title = "Hi, I'm Tiago Gonçalves! 👋"
 name = "Tiago Gonçalves"
 
 +++
-![](/uploads/Profile Pic.jpg "Profile Pic")
-
 I'm a **UX/UI Designer** based in **Porto, Portugal**.
 
-I'm currently working remotely for [**Mokriya**](https://mokriya.com). I 've been helping companies and startups build digital products for the last 6 years. I've worked for MEO, NOS, Fnac, CR7, FC Porto,
+I'm currently working remotely for [**Mokriya**](https://mokriya.com). I 've been helping companies and startups build digital products for the last 6 years. I've worked for FC Porto, CR7, Fnac, Levi's, MEO, NOS and more.
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/tiagovianagoncalves/), [Dribbble](https://dribbble.com/tiago_goncalves "Dribbble"), [Twitter](https://twitter.com/tiago__g "Twitter") or [Instagram](instagram.com/taigovianagoncalves "Instagram").
+You can find me on [LinkedIn](https://www.linkedin.com/in/tiagovianagoncalves/), [Dribbble](https://dribbble.com/tiago_goncalves "Dribbble"), [Twitter](https://twitter.com/tiago__g "Twitter") or [Instagram](instagram.com/taigovianagoncalves "Instagram"), or [**shoot me an e-mail**](mailto:me@tiagogoncalv.es).
