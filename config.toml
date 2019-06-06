@@ -26,15 +26,15 @@ theme = "hello-friend-ng"
 
   [[params.social]]
     name = "linkedin"
-    url  = "mailto:nobody@example.com"
+    url  = "https://linkedin.com/tiagovianagoncalves"
 
   [[params.social]]
     name = "twitter"
-    url  = "https://github.com/"
+    url  = "https://twitter.com/tiago__gon"
 
   [[params.social]]
     name = "instagram"
-    url  = "https://www.linkedin.com/"
+    url  = "https://instagram.com/tiagovianagoncalves"
     
 [languages]
   [languages.en]
