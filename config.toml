@@ -26,11 +26,11 @@ theme = "hello-friend-ng"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://linkedin.com/tiagovianagoncalves"
+    url  = "https://linkedin.com/in/tiagovianagoncalves/"
 
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/tiago__gon"
+    url  = "https://twitter.com/tiago__g"
 
   [[params.social]]
     name = "instagram"
