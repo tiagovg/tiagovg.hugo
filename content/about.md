@@ -10,6 +10,6 @@ name = "Tiago Gonçalves"
 
 I'm a **UX/UI Designer** based in **Porto, Portugal**.
 
-I'm currently working remotely for [**Mokriya**](https://mokriya.com). I have been helping companies and startups build digital products for the last 6 years. I've worked for MEO, NOS, Fnac, CR7, FC Porto,
+I'm currently working remotely for [**Mokriya**](https://mokriya.com). I 've been helping companies and startups build digital products for the last 6 years. I've worked for MEO, NOS, Fnac, CR7, FC Porto,
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/tiagovianagoncalves/), [Dribbble](https://dribbble.com/tiago_goncalves "Dribbble"), [Twitter](https://twitter.com/tiago__g "Twitter") or [Instagram](instagram.com/taigovianagoncalves "Instagram").
