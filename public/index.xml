@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m Tiago Gonçalves 👋</title>
+    <link>http://tiagogoncalv.es/</link>
+    <description>Recent content on Hi, I&#39;m Tiago Gonçalves 👋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tiagogoncalv.es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hi, I&#39;m Tiago Gonçalves! 👋</title>
+      <link>http://tiagogoncalv.es/about/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://tiagogoncalv.es/about/</guid>
+      <description>I&amp;rsquo;m a UX/UI Designer based in Porto, Portugal.
+I&amp;rsquo;m currently working remotely for Mokriya. I &amp;rsquo;ve been helping companies and startups build digital products for the last 6 years. I&amp;rsquo;ve worked for FC Porto, CR7, Fnac, Levi&amp;rsquo;s, MEO, NOS and more.
+You can find me on LinkedIn, Dribbble, Twitter or Instagram, or shoot me an e-mail.</description>
+    </item>
+    
+  </channel>
+</rss>
