@@ -4,6 +4,7 @@ title = "Tiago Gonçalves Personal Website"
 theme = "hello-friend-ng"
 
 [params]
+  customCSS = ["css/custom.css","css/about.css"]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -28,6 +29,10 @@ theme = "hello-friend-ng"
     name = "linkedin"
     url  = "https://linkedin.com/in/tiagovianagoncalves/"
 
+   [[params.social]]
+    name = "dribbble"
+    url  = "https://dribbble.com/tiago_goncalves"
+
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/tiago__g"
@@ -35,6 +40,8 @@ theme = "hello-friend-ng"
   [[params.social]]
     name = "instagram"
     url  = "https://instagram.com/tiagovianagoncalves"
+
+  
     
 [languages]
   [languages.en]
@@ -42,17 +49,16 @@ theme = "hello-friend-ng"
     homesubtitle = "I'm a UX/UI Designer based in Porto, Portugal"
     keywords = ""
     copyright = ""
-    readOtherPosts = "Read other posts"
-
+    
     [languages.en.params.logo]
-      logoText = "tiago"
-      logoHomeLink = "/"
+    #  logoText = "tiago"
+    #  logoHomeLink = "/"
     # or
     #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    path = "/logo.svg"
+    alt = "Tiago's logo"
 
-customCSS = ["css/styles.css"]
+
 
 # And you can even create generic menu
 [menu]
