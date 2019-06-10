@@ -6,6 +6,8 @@ body.dark-theme{color:white}
 .dark-theme .logo:hover { fill: #c6c6c6 }
 a:hover {color:#0f9be8; transition: all 0.2s}
 a{text-decoration-color:#0f9be8;}
+.footer a{text-decoration-color:inherit}
+.dark-theme .footer a{text-decoration-color: inherit;}
 .dark-theme a{text-decoration-color:#c6c6c6;}
 .dark-theme a:hover {color:#c6c6c6; transition: all 0.2s}
 p{margin-block-start:8px;font-size:1.1rem;}
